@@ -1,6 +1,6 @@
 <h1 align="center">Show Docker Dashboard</h1>
 
-![docker dashboard](resources/docker_dashboard.gif)
+![docker dashboard](resources/docker-dash.gif)
 
 
 # DOWNLOAD
