@@ -1,4 +1,4 @@
-<h1 align="center">Show Docker Dashboard</h1>
+<h1>Show Docker Dashboard</h1>
 
 ![docker dashboard](resources/docker-dash.gif)
 
