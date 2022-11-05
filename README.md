@@ -5,4 +5,4 @@
 
 # DOWNLOAD
 
-Available on the [release page]().
+Available on the [release page](https://github.com/ahmeed83/show-docker-dashboard-alfred/releases/tag/v1.0.0).
